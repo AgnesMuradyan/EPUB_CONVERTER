@@ -1,0 +1,12 @@
+[project]
+name = "epub-converter"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11.10"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "ebooklib>=0.20",
+    "lxml>=6.0.2",
+    "pypdf>=6.4.1",
+]
