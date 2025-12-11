@@ -5,9 +5,12 @@ build/
 dist/
 wheels/
 *.egg-info
+.idea
 
 # Virtual environments
 .venv
+venv
 
 # Project files folder
 files/
+.DS_Store
